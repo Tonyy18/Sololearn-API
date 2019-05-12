@@ -1,7 +1,7 @@
 # Sololearn API Unofficial
 
 <p>Sololearn API for python.</p>
-<p>Requires <a href="http://docs.python-requests.org/en/master/">requests</a>, <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup 4</a> and <a href="https://docs.python.org/2/library/json.html">json</a> modules</p>
+<p>Requires <a href="http://docs.python-requests.org/en/master/">requests</a>, <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup 4</a> and <a href="https://docs.python.org/2/library/json.html">json</a> libraries</p>
 
 <h1>Documentation</h1>
 <div id="login">
