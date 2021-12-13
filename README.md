@@ -2,7 +2,7 @@
 
 <p>Sololearn API for python.</p>
 <h2>Login system needs to be updated!! Not working otherwise</h2>
-<h4>The script is outdated and propably requires javascript. Will be converted into selenium at some points</h4>
+<h3>The script is outdated and propably requires javascript. Will be converted into selenium at some point</h3>
 <p>Requires <a href="http://docs.python-requests.org/en/master/">requests</a>, <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup 4</a> and <a href="https://docs.python.org/2/library/json.html">json</a> libraries</p>
 
 <h1>Documentation</h1>
